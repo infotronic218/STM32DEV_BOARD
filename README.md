@@ -10,8 +10,8 @@ The on board sensors are :
 ## TOP VIEW OF THE 3D
 ![3D Top View ](/images/top-3d.PNG)
 
-## TOP VIEW OF THE 3D
-![3D Bottom View](/images/top-3d.PNG)
+## BOTTOM VIEW OF THE 3D
+![3D Bottom View](/images/bottom-3d.PNG)
 
 ## Board Layout
 ![Board Layout](/images/layout.PNG)
