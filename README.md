@@ -17,3 +17,6 @@ The on board sensors are :
 ![Board Layout](/images/layout.PNG)
 
 
+# Feel free to contact me for embedded electronics projects. I will be glad to contribute[Link to my portfolio](https://oussenisawadogo.web.app).
+
+
